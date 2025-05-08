@@ -11,6 +11,60 @@ package com.mycompany.josuealejandrorodriguez2025;
 public class JosueAlejandroRodriguez2025 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+     String[] litrosConsumidos = new String[7];
+        litrosConsumidos[0] = "Lunes";
+        litrosConsumidos[1] = "Martes";
+        litrosConsumidos[2] = "Miercoles";
+        litrosConsumidos[3] = "Jueves";
+        litrosConsumidos[4] = "Viernes";
+        litrosConsumidos[5] = "Sabado";
+        litrosConsumidos[6] = "Domingo";
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     }
 }
